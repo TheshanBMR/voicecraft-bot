@@ -129,8 +129,8 @@ Check `voicecraft.log` for detailed error information.
 ## 🤝 Support
 
 - **Support Server**: [Join Discord](https://discord.gg/voicecraft)
-- **GitHub**: [VoiceCraft Repository](https://github.com/voicecraft/voicecraft-bot)
-- **Issures**: [Report Issues](https://github.com/voicecraft/issues)
+- **GitHub**: [VoiceCraft Repository](https://github.com/TheshanBMR/voicecraft-bot)
+- **Issures**: [Report Issues](https://github.com/TheshanBMR/voicecraft-bot/issues)
 
 ## 📄 License
 
